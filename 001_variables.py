@@ -16,7 +16,5 @@ cgpa = 7.56
 height = 5.9
 
 # Booleans
-like_computer_science = True
+likes_computer_science = True
 do_something_else = False
-
-
