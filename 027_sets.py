@@ -4,6 +4,9 @@ print(fruits)
 
 print(len(fruits))
 
+for fruit in fruits:
+    print(fruit, end=" ")
+
 print("pineapple" in fruits)
 fruits.add("pineapple")
 fruits.remove("apple")
